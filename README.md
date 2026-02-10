@@ -23,7 +23,7 @@ This is a movies website built using ReactJS that fetches movie information from
 ---
 ## 🚀 Live Demo
 👉 Live URL:
-https://tic-tac-toesreactgame.netlify.app/
+https://moviewebsitewithreact.netlify.app/
 
 ---
 
